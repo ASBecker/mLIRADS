@@ -4,7 +4,7 @@ mLI-RADS Data
 
 ## What is this?
 
-This repository contains the raw readout data and statistical analysis underlying the [mLI-RADS publication](TODO) in the [European Journal of Radiology] (http://www.ejradiology.com/). 
+This repository contains the raw readout data and statistical analysis underlying the [mLI-RADS publication](http://www.sciencedirect.com/science/article/pii/S0720048X16303527) in the [European Journal of Radiology] (http://www.ejradiology.com/). 
 
 ### Getting the Data
 
@@ -13,7 +13,7 @@ Clone the repository or download as zip and unpack in folder of your choice.
 
 ## How to Cite
 
-(TODO)
+If you use this data for you work please cite the paper as: Becker A.S. et al., Increased interreader agreement in diagnosis of hepatocellular carcinoma using an adapted LI-RADS algorithm, European Journal of Radiology, http://dx.doi.org/10.1016/j.ejrad.2016.11.004
 
 ## Built With
 
