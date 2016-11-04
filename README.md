@@ -1,6 +1,4 @@
-# Project Title
-
-mLI-RADS Data
+# mLI-RADS Data
 
 ## What is this?
 
